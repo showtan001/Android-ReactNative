@@ -6,7 +6,7 @@ Android project access to React Native example
 
 * Project root directory execution: `npm install` or `yarn`, and `npm start`
 
-* Android Studio runs Android
+* Android Studio runs Android project
 
 
 
